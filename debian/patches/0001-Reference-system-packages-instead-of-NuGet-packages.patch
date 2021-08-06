@@ -14,7 +14,7 @@ the system-provided packages instead of NuGet packages.
 +++ b/KeeAgent/KeeAgent.csproj
 @@ -12,7 +12,9 @@
      </NuGetPackageImportStamp>
-     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
      <TargetFrameworkProfile />
 +    <KeePassPluginDevToolsPath>/usr/lib/keepass2-plugin-dev/</KeePassPluginDevToolsPath>
    </PropertyGroup>
